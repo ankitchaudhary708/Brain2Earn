@@ -118,8 +118,8 @@ Global Styles
 html,
 body {
   /* font-family: 'Poppins', sans-serif; */
-  background-color: #d1e3fc38;
-   }
+     background-color: #d1e3fc38;
+  }
 
 ::selection {
   background: #0071f8;
@@ -1713,6 +1713,10 @@ box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px
 
 }
 
+/* .xyz{
+  border: 2px solid black;
+ } */
+
 .all_subheading{
   text-align: justify;
   font-weight: 500;
@@ -1746,7 +1750,7 @@ box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px
  
 .faq_main{
    padding: 15px;
-   margin-top: -80px !important;
+   margin-top: -50px !important;
    
   }
 
@@ -1959,3 +1963,8 @@ box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px
   color: white;
 
  }
+
+ .but_download:hover button {
+  background-color: red;
+ }
+
