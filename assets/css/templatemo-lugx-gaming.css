@@ -1957,14 +1957,19 @@ box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px
  }
 
  .but_download button {
-  border-radius: 10px;
-  background-color: green;
-  border: 4px solid black;
+  border-radius: 15px;
+  background-color: rgba(0, 128, 0, 0.864);
+  border: 2px solid black;
   color: white;
 
  }
 
  .but_download:hover button {
   background-color: red;
+  color: black;
+  
  }
 
+.download_game_btn{
+  border: none;
+}
