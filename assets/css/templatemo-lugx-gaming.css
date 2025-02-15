@@ -1981,3 +1981,7 @@ box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px
 .download_game_btn{
   border: none;
 }
+
+.Pages_DEtails{
+  font-weight:800 ;
+}
